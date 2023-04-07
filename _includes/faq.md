@@ -18,6 +18,10 @@ C'est précisément ici entre Saint-Girons et Massat [Terre Pure](https://goo.gl
 ## Comment venir ?
 Vous pouvez vous rapprocher en train à la gare de Boussens, et finir en bus à Saint-Girons. Vous ne serez plus qu'à 20 minutes et nous pourrons passer vous récupérer.  
 
+### Pour dormir
+
+Il y a un dortoir qui peut accueillir 6 personnes avec une chambre pour deux personnes. Il faut prévoir ses draps ou un duvet.
+
 ### Participation aux frais ?
 Le domaine nous demande une participation de 5 euros par personne et 10 euros pour dormir.
 Pour le reste, vous pourrez participer au frais des repas ou vous laisser inviter par l'organisation.  
