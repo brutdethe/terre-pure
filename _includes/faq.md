@@ -13,7 +13,7 @@
 Ça va se dérouler à [Terre Pure](https://www.terrepure.com/en-ariege)
 sur une propriété de 6 hectares dans un site calme avec des départs de promenades un peu partout.  
   
-C'est précisément ici entre Saint-Girons et Massat [Terre Pure](https://goo.gl/maps/KrBqzNXAtZcAgnZ99). 
+C'est précisément ici entre Saint-Girons et Massat [map](https://goo.gl/maps/KrBqzNXAtZcAgnZ99). 
 
 ## Comment venir ?
 Vous pouvez vous rapprocher en train à la gare de Boussens, et finir en bus à Saint-Girons. Vous ne serez plus qu'à 20 minutes et nous pourrons passer vous récupérer.  
