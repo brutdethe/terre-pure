@@ -3,7 +3,7 @@ description: >
   Session d'organisation pour co-construire la seconde édition du festival
 author: pntbr
 email: stephane@brutdethe.fr
-repository: brutdethe/terrepure.git
+repository: brutdethe/terre-pure.git
 
 encoding: UTF-8
 kramdown:
